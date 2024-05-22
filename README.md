@@ -1,5 +1,4 @@
 # ROCK-PAPER-SCISSORS
-# Rock Paper Scissors Game
 
 ## Overview
 This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. The game allows a user to play Rock Paper Scissors against the computer. The computer's choice is generated randomly, and the game announces the winner after each round.
